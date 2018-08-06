@@ -113,7 +113,6 @@
                 <groupId>org.wildfly.plugins</groupId>
                 <artifactId>wildfly-maven-plugin</artifactId>
                 <version>1.0.2.Final</version>
-<!--
                 <executions>
                     <execution>
                         <phase>install</phase>
@@ -122,7 +121,7 @@
                         </goals>
                     </execution>
                 </executions>
--->
+
             </plugin>
         </plugins>
     </build>
