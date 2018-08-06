@@ -109,6 +109,8 @@
             </plugins>
         </pluginManagement>
         <plugins>
+
+<!--
             <plugin>
                 <groupId>org.wildfly.plugins</groupId>
                 <artifactId>wildfly-maven-plugin</artifactId>
@@ -123,6 +125,7 @@
                 </executions>
 
             </plugin>
+-->
         </plugins>
     </build>
     <profiles>
