@@ -31,12 +31,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://ec2-52-40-9-108.us-west-2.compute.amazonaws.com:8081/artifactory/mavenlocal/</url>
+            <url>http://ec2-34-219-155-50.us-west-2.compute.amazonaws.com:8081/artifactory/mavenlocal/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://ec2-52-40-9-108.us-west-2.compute.amazonaws.com:8081/artifactory/mavensnapshot/</url>
+            <url>http://ec2-34-219-155-50.us-west-2.compute.amazonaws.com:8081/artifactory/mavensnapshot/</url>
         </snapshotRepository> 
     </distributionManagement>
     
